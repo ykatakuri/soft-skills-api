@@ -1,0 +1,230 @@
+[
+    {
+        "softSkillCategoryId": 1,
+        "softSkillCategoryName": "Communication",
+        "softSkills": [
+            {
+                "softSkillId": 1,
+                "softSkillName": "Communication orale"
+            },
+            {
+                "softSkillId": 2,
+                "softSkillName": "Communication écrite"
+            },
+            {
+                "softSkillId": 3,
+                "softSkillName": "Communication non verbale"
+            },
+            {
+                "softSkillId": 4,
+                "softSkillName": "Ecoute active"
+            }
+        ]
+    },
+    {
+        "softSkillCategoryId": 2,
+        "softSkillCategoryName": "Compétences interpersonnelles",
+        "softSkills": [
+            {
+                "softSkillId": 1,
+                "softSkillName": "Travail en équipe"
+            },
+            {
+                "softSkillId": 2,
+                "softSkillName": "Sens du collectif"
+            },
+            {
+                "softSkillId": 3,
+                "softSkillName": "Coordination"
+            },
+            {
+                "softSkillId": 4,
+                "softSkillName": "Gestion de conflit"
+            },
+            {
+                "softSkillId": 5,
+                "softSkillName": "Fiabilité"
+            },
+            {
+                "softSkillId": 6,
+                "softSkillName": "Flexibilité et adaptabilité"
+            },
+            {
+                "softSkillId": 7,
+                "softSkillName": "Respect"
+            },
+            {
+                "softSkillId": 8,
+                "softSkillName": "Assertivité"
+            },
+            {
+                "softSkillId": 9,
+                "softSkillName": "Acceptation du feedback"
+            },
+            {
+                "softSkillId": 10,
+                "softSkillName": "Politesse"
+            }
+        ]
+    },
+    {
+        "softSkillCategoryId": 3,
+        "softSkillCategoryName": "Leadership",
+        "softSkills": [
+            {
+                "softSkillId": 1,
+                "softSkillName": "Responsabilité"
+            },
+            {
+                "softSkillId": 2,
+                "softSkillName": "Capacité à faire face à l'incerttitude"
+            },
+            {
+                "softSkillId": 3,
+                "softSkillName": "Vision, visualitsation"
+            },
+            {
+                "softSkillId": 4,
+                "softSkillName": "Pensée stratégique"
+            },
+            {
+                "softSkillId": 5,
+                "softSkillName": "Jugement et prise de décision"
+            },
+            {
+                "softSkillId": 6,
+                "softSkillName": "Intégrité"
+            },
+            {
+                "softSkillId": 7,
+                "softSkillName": "Audace"
+            },
+            {
+                "softSkillId": 8,
+                "softSkillName": "Négotiation"
+            },
+            {
+                "softSkillId": 9,
+                "softSkillName": "Intelligence émotionnelle"
+            },
+            {
+                "softSkillId": 10,
+                "softSkillName": "Professionnalisme"
+            }
+        ]
+    },
+    {
+        "softSkillCategoryId": 4,
+        "softSkillCategoryName": "Réflexion et imagination",
+        "softSkills": [
+            {
+                "softSkillId": 1,
+                "softSkillName": "Intuition"
+            },
+            {
+                "softSkillId": 2,
+                "softSkillName": "Ouverture à la nouveauté"
+            },
+            {
+                "softSkillId": 3,
+                "softSkillName": "Créativité"
+            },
+            {
+                "softSkillId": 4,
+                "softSkillName": "Esprit critique"
+            },
+            {
+                "softSkillId": 5,
+                "softSkillName": "Compétence analytique"
+            },
+            {
+                "softSkillId": 6,
+                "softSkillName": "Résolution de problèmes"
+            }
+        ]
+    },
+    {
+        "softSkillCategoryId": 5,
+        "softSkillCategoryName": "Compétences intrapersonnelles",
+        "softSkills": [
+            {
+                "softSkillId": 1,
+                "softSkillName": "Résilience"
+            },
+            {
+                "softSkillId": 2,
+                "softSkillName": "Confiance en soi"
+            },
+            {
+                "softSkillId": 3,
+                "softSkillName": "Faire confiance"
+            },
+            {
+                "softSkillId": 4,
+                "softSkillName": "Motivation intrinsèque"
+            },
+            {
+                "softSkillId": 5,
+                "softSkillName": "Présence"
+            },
+            {
+                "softSkillId": 6,
+                "softSkillName": "Gestion du stress"
+            },
+            {
+                "softSkillId": 7,
+                "softSkillName": "Capacité à travailler sous pression"
+            },
+            {
+                "softSkillId": 8,
+                "softSkillName": "Gestion du temps"
+            },
+            {
+                "softSkillId": 9,
+                "softSkillName": "Ethique"
+            },
+            {
+                "softSkillId": 10,
+                "softSkillName": "Attitude positive"
+            }
+        ]
+    },
+    {
+        "softSkillCategoryId": 6,
+        "softSkillCategoryName": "Apprentissage",
+        "softSkills": [
+            {
+                "softSkillId": 1,
+                "softSkillName": "COmpétence méthodologique"
+            },
+            {
+                "softSkillId": 2,
+                "softSkillName": "Curiosité"
+            },
+            {
+                "softSkillId": 3,
+                "softSkillName": "Esprit d'entreprendre"
+            },
+            {
+                "softSkillId": 4,
+                "softSkillName": "Autonomie"
+            },
+            {
+                "softSkillId": 5,
+                "softSkillName": "Contrôle de qualité"
+            },
+            {
+                "softSkillId": 6,
+                "softSkillName": "Auto-évaluation"
+            },
+            {
+                "softSkillId": 7,
+                "softSkillName": "Apprendre à apprendre"
+            },
+            {
+                "softSkillId": 8,
+                "softSkillName": "Volonté d'apprendre"
+            }
+        ]
+    }
+]
